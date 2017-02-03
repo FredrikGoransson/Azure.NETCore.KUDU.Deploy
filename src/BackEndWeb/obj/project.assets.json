@@ -9345,10 +9345,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\Azure.SO.Answer.42032589\\Azure.SO.Answer.42032589.csproj",
-      "projectName": "Azure.SO.Answer.42032589",
-      "projectPath": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\Azure.SO.Answer.42032589\\Azure.SO.Answer.42032589.csproj",
-      "outputPath": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\Azure.SO.Answer.42032589\\obj\\",
+      "projectUniqueName": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\BackEndWeb\\BackEndWeb.csproj",
+      "projectName": "BackEndWeb",
+      "projectPath": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\BackEndWeb\\BackEndWeb.csproj",
+      "outputPath": "C:\\Code\\labs\\Azure.SO.Answer.42032589\\Azure.NETCore.KUDU.Deploy\\src\\BackEndWeb\\obj\\",
       "outputType": "NETCore",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
